@@ -1,7 +1,7 @@
 site_name: VMPower Help Center
 theme: 'material'
 theme_dir: 'theme'
-copyright: "Copyright 2020 - All Rights Reserved"
+copyright: "Copyright 2023 - All Rights Reserved"
 extra_css:
   - 'stylesheets/extra.css'
 extra:
