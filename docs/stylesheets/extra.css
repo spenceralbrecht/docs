@@ -1,0 +1,7 @@
+.md-header {
+    background-color: #2454ce
+}
+
+.md-sidebar .md-nav--primary label.md-nav__title {
+    background-color: #2454ce !important
+}
